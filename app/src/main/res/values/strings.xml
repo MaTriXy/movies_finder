@@ -1,0 +1,7 @@
+<resources>
+    <string name="youtube_api_key">AIzaSyBHeY1eZPY71MFOH71mBHBr5KFvmD2eD78</string>
+    <string name="app_name">Movies Finder</string>
+    <string name="movie_duration">%1$dmin</string>
+    <string name="movie_rating">%1$s/10</string>
+    <string name="trailers_title">Trailers:</string>
+</resources>
